@@ -10,6 +10,7 @@ Cada livro possui:
 * ID (único)
 * Título
 * Autor
+
 Os livros são armazenados em um dicionário, onde o ID é usado como chave para facilitar a busca.
 
 # Funcionalidades
